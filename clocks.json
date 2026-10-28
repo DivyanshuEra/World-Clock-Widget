@@ -1,0 +1,57 @@
+[
+  {
+    "Id": "96e3fd65-7842-4655-9454-369d7fcfa39e",
+    "Flag": "",
+    "Country": "India",
+    "City": "New Delhi",
+    "TimeZoneInput": "India Standard Time",
+    "DisplayCode": "IST",
+    "CurrentTime": "--:--:-- --",
+    "CurrentDate": "---",
+    "IsReorderMode": false
+  },
+  {
+    "Id": "49cb5514-3dc8-498b-a1f4-7a7fbdc0bb6f",
+    "Flag": "",
+    "Country": "USA",
+    "City": "New York",
+    "TimeZoneInput": "Eastern Standard Time",
+    "DisplayCode": "EDT/EST",
+    "CurrentTime": "--:--:-- --",
+    "CurrentDate": "---",
+    "IsReorderMode": false
+  },
+  {
+    "Id": "5b914e62-5e47-4647-b54b-741504401edd",
+    "Flag": "",
+    "Country": "UAE",
+    "City": "Dubai",
+    "TimeZoneInput": "Arabian Standard Time",
+    "DisplayCode": "GST",
+    "CurrentTime": "--:--:-- --",
+    "CurrentDate": "---",
+    "IsReorderMode": false
+  },
+  {
+    "Id": "097c2493-b88a-4fd9-83c9-11ad2527216f",
+    "Flag": "",
+    "Country": "Turkey/Qatar",
+    "City": "Istanbul / Doha",
+    "TimeZoneInput": "Turkey Standard Time",
+    "DisplayCode": "TRT/AST",
+    "CurrentTime": "--:--:-- --",
+    "CurrentDate": "---",
+    "IsReorderMode": false
+  },
+  {
+    "Id": "b92ed5c2-524b-4cfb-a30d-3f73f650de0a",
+    "Flag": "",
+    "Country": "Italy/Spain",
+    "City": "Rome / Madrid",
+    "TimeZoneInput": "W. Europe Standard Time",
+    "DisplayCode": "CET/CEST",
+    "CurrentTime": "--:--:-- --",
+    "CurrentDate": "---",
+    "IsReorderMode": false
+  }
+]

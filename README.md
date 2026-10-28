@@ -20,7 +20,7 @@
 
 ## Quick Start
 
-1. Download [`WorldClock.exe`](WorldClock.exe).
+1. Download [`WorldClock.exe`](dist/WorldClock.exe) (or get it from the latest [Releases](https://github.com/DivyanshuEra/World-Clock-Widget/releases)).
 2. Double-click `WorldClock.exe` to run immediately.
 3. *(Optional)* Run `CreateShortcut.bat` to create a Desktop shortcut with the `Ctrl + Alt + W` hotkey.
 
